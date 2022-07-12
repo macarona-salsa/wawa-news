@@ -1,0 +1,29 @@
+{
+  "name": "wawa-news",
+  "version": "0.1.0",
+  "description": "A dynamic news website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macarona-salsa/wawa-news.git"
+  },
+  "keywords": [
+    "server",
+    "website",
+    "news",
+    "articles"
+  ],
+  "author": "macarona-salsa",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/macarona-salsa/wawa-news/issues"
+  },
+  "homepage": "https://github.com/macarona-salsa/wawa-news#readme",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
